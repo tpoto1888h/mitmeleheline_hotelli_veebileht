@@ -48,6 +48,7 @@ h1, h2, h3 {
     background: #f4f4f4;
     color: #333;
 }
+
 .bg-dark {
     background: #333;
     color: #fff;
@@ -245,5 +246,15 @@ footer {
     padding: 50px;
     text-align: center;
 }
+
+#contact-info .box i {
+    margin-bottom: 10px;
+}
+
+
+
+
+
+
 
 
